@@ -7,7 +7,7 @@
     "test": "jest --coverage",
     "build": "webpack --config webpack.prod.js",
     "build-dev": "webpack --config webpack.dev.js --watch",
-    "start": "live-server --watch=/src --open=/public"
+    "start": "live-server --watch=./public,./assets --open=/public"
   },
   "repository": {
     "type": "git",
