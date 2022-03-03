@@ -13,6 +13,6 @@ Launch webpack in dev mode:
 
     npm run build-dev
 
-Serve the app with live-server
+Leave that terminal window running.  In a separate terminal window, serve the app with live-server
 
     npm start
